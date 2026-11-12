@@ -11,3 +11,9 @@ Career Path for AI ML
    
 6. Data Analysis or Data Cleaning or Exploratory Data Analysis(EDA)
 7. 
+
+Deployment
+
+1. Render : https://dashboard.render.com/
+2. AWS
+3. Azure
